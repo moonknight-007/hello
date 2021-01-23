@@ -7,7 +7,7 @@ link to my [github page](https://github.com/moonknight-007/hello)
 
 This is **bold** and this is _italic_.
 
-! [hello & welcome] (https://sendgrid.com/wp-content/uploads/2014/02/Hello_and_welcome.jpg)
+![hello & welcome] (https://sendgrid.com/wp-content/uploads/2014/02/Hello_and_welcome.jpg)
 
 > This is a quote. it starts with less-than symbol.
 `this is code`. this symbol is present with ~ symbol.
